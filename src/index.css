@@ -1,0 +1,72 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+    margin-top: 0;
+}
+
+header{
+    background-image: url("https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:center;
+    height: 300px;
+    margin: 0;
+}
+
+#root{
+    position: relative;
+    z-index: 100;
+    background-color: white;
+    padding: 25px;
+}
+
+.Bio{
+    text-align: center;
+}
+
+.Role{
+    color: orangered;
+}
+.socilaMedia-buttons{
+    position: relative;
+    margin-right: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.icons{
+    color: #918E9B;
+}
+
+.display{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+button{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+}
+footer{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: #dadada;
+    padding: 25px;
+    margin: 0;
+}
+
+
+  
+
+
+  
+  
+  
+  
+  
+

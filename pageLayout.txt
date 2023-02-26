@@ -1,0 +1,11 @@
+<header>
+	my picture
+</header>
+<div bio>
+<h3>My name<h3/>
+<h4>Role<h4/>
+<h6>email<h6/>
+</div>
+<div>Social Media Buttons</div>
+<div>About & Intrest</div>
+<footer>social media icons</footer>
